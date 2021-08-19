@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Mert Aktas 👋
+## Aspiring data scientist, recently graduated with Master's in Physics
 
 <!--
 **mehmetmertaktas/mehmetmertaktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
