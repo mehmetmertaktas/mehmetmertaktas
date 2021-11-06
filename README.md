@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert Aktas</h1>
-<h3 align="center">An aspiring data scientist recently graduated with Master's in Physics</h3>
+<h3 align="center">Data scientist recently graduated with Master's in Physics</h3>
 
 <p align="left"> <a href="https://twitter.com/mehmetmertaktas" target="blank"><img src="https://img.shields.io/twitter/follow/mehmetmertaktas?logo=twitter&style=for-the-badge" alt="mehmetmertaktas" /></a> </p>
 
